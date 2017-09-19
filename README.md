@@ -48,7 +48,7 @@ XXXX**Find e to the Nth Digit** - Just like the previous problem, but with e ins
 
 XXXX**Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.XXXX
 
-**Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them.
+XXXX**Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them.XXXX
 
 **Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one.
 
